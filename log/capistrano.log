@@ -1,0 +1,31 @@
+# Logfile created on 2017-07-30 15:46:51 +0700 by logger.rb/56815
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-07-30 15:46:51 +0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO rbenv: rbenv_ruby is not set; ruby version will be defined by the remote hosts via rbenv
+  INFO [07df3764] Running /usr/bin/env mkdir -p /tmp as root@0.0.0.0
+ DEBUG [07df3764] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="" ; /usr/bin/env mkdir -p /tmp )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-07-30 15:51:01 +0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO rbenv: rbenv_ruby is not set; ruby version will be defined by the remote hosts via rbenv
+  INFO [97d7ab1f] Running /usr/bin/env mkdir -p /tmp as root@0.0.0.0
+ DEBUG [97d7ab1f] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="" ; /usr/bin/env mkdir -p /tmp )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-07-30 15:54:56 +0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO rbenv: rbenv_ruby is not set; ruby version will be defined by the remote hosts via rbenv
+  INFO [ab0dca88] Running /usr/bin/env mkdir -p /tmp as root@0.0.0.0
+ DEBUG [ab0dca88] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="" ; /usr/bin/env mkdir -p /tmp )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-07-30 15:57:11 +0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO rbenv: rbenv_ruby is not set; ruby version will be defined by the remote hosts via rbenv
+  INFO [c2fdd7b8] Running /usr/bin/env mkdir -p /tmp as root@0.0.0.0
+ DEBUG [c2fdd7b8] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="" ; /usr/bin/env mkdir -p /tmp )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-07-30 15:58:04 +0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO rbenv: rbenv_ruby is not set; ruby version will be defined by the remote hosts via rbenv
+  INFO [e098bcd9] Running /usr/bin/env mkdir -p /tmp as root@0.0.0.0
+ DEBUG [e098bcd9] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="" ; /usr/bin/env mkdir -p /tmp )
